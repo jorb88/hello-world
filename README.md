@@ -1,2 +1,3 @@
 # hello-world
 General collaboration repository
+This is Grego a long time software engineer trying to learn GitHub...
